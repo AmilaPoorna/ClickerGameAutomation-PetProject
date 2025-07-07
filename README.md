@@ -1,1 +1,1 @@
-# ClickerHeroesAutomator-PetProject
+# ClickerGameAutomator-PetProject
